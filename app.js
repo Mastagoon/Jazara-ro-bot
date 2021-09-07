@@ -16,4 +16,4 @@ bot.on("guildMemberAdd",async (member) => {
     }
 })
 
-bot.login("ODg0Njk4NjYxMDM1MDUzMTA4.YTcR1Q.6nG3tU6MI4EWVyNab3tT1NNOneY")
+bot.login("TOKEN")
